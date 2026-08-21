@@ -1,0 +1,24 @@
+errors:
+  authentication_failed:
+    status: 403
+    message: "Authentication failed."
+
+  session_expired:
+    status: 401
+    message: "Authentication failed."
+
+  github_access_denied:
+    status: 403
+    message: "GitHub access denied."
+
+  github_repository_not_found:
+    status: 404
+    message: "Repository not found."
+
+  rate_limit:
+    status: 500
+    message: "Something went wrong."
+
+  agent_unavailable:
+    status: 503
+    message: "Agent unavailable."

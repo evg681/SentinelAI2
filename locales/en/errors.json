@@ -1,0 +1,14 @@
+{
+  "authentication_failed": "Authentication failed.",
+  "session_expired": "Authentication failed.",
+  "github_access_denied": "GitHub access denied.",
+  "github_not_connected": "GitHub connection missing.",
+  "invalid_token": "Invalid token.",
+  "rate_limit": "Too many requests.",
+  "unknown_error": "Unknown error.",
+  "agent_unavailable": "Agent unavailable.",
+  "investigation_complete": "Investigation complete.",
+  "risk_analysis_failed": "Risk analysis failed.",
+  "risk_analysis_timeout": "Risk analysis failed.",
+  "risk_analysis_partial": "Risk analysis failed."
+}

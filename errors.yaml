@@ -1,11 +1,11 @@
 errors:
   authentication_failed:
-    status: 403
+    status: 401
     message: "Authentication failed."
 
   session_expired:
-    status: 401
-    message: "Authentication failed."
+    status: 401  
+    message: "Your session has expired.Please login again."
 
   github_access_denied:
     status: 403
@@ -16,8 +16,8 @@ errors:
     message: "Repository not found."
 
   rate_limit:
-    status: 500
-    message: "Something went wrong."
+    status: 429
+    message: "Too many requests. Please try again later."
 
   agent_unavailable:
     status: 503

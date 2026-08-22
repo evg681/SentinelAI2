@@ -1,6 +1,6 @@
 {
   "authentication_failed": "Authentication failed.",
-  "session_expired": "Authentication failed.",
+  "session_expired": "session_expired.",
   "github_access_denied": "GitHub access denied.",
   "github_not_connected": "GitHub connection missing.",
   "invalid_token": "Invalid token.",

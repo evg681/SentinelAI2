@@ -18,7 +18,7 @@ When the agent finishes analyzing the available evidence, it reports:
 
 > Investigation complete.
 
-This means the incident has been fully investigated and resolved.
+This means the agent has completed its investigation and reported its findings.
 
 ## Data sources
 

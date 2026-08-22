@@ -3,10 +3,10 @@
   "welcome_body": "Your AI security agent protects your environment automatically.",
   "connect_github_title": "Connect GitHub",
   "connect_github_body": "Allow access to your repositories so the agent can investigate security issues.",
-  "connect_github_cta": "Next",
+  "connect_github_cta": "Connect GitHub",
   "first_investigation_title": "Run your first investigation",
-  "first_investigation_body": "SentinelAI will investigate the issue and tell you what happened.",
+  "first_investigation_body": "SentinelAI will investigate the issue  analyze the available evidence, and summarize its findings.",
   "first_investigation_cta": "Start",
-  "complete_title": "You're protected",
+  "complete_title": "You're all set",
   "complete_body": "SentinelAI is now monitoring your environment."
 }

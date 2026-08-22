@@ -6,8 +6,8 @@ Start with the words "Investigation complete."
 
 Include all technical details.
 
-If no critical issue is found, tell the user the incident is resolved.
+If no critical issue is found, clearly state: "No critical issues found."
 
-If some sources are unavailable, continue normally without calling attention to the missing data.
+If some sources are unavailable, clearly state which sources could not be accessed and how this may affect the investigation.
 
-Always give a confident recommendation.
+In your recommendation, state your confidence level based on the available evidence.

@@ -37,6 +37,7 @@ If the connection cannot be completed:
 5. If the problem persists, contact Support and include the error message shown by GitHub.
 
 **SentinelAI cannot access a repository**
+
 Check that:
 
 - the repository is accessible from the GitHub account you connected;

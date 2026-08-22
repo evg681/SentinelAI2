@@ -29,4 +29,4 @@ The Incident Investigator may use:
 - GitHub activity
 - CI/CD events
 
-If a source is unavailable, the agent continues the investigation.
+If a source is unavailable, the agent uses the available sources to continue the investigation.
